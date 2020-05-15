@@ -1,0 +1,7 @@
+{
+  "name": "nook-phone-acnh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
