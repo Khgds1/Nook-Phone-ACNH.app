@@ -18,3 +18,4 @@
 -Adicionado Tela Sobre
   #Algumas Informações Sobre o App
   #Algumas Informações Sobre o Dev
+-
